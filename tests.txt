@@ -2104,7 +2104,7 @@ A) Solishtirma hajm
 B) Zichlik
 C) Kinematik qovushqoqlik
 D) Solishtirma og’irlik
-Answer: A
+Answer: D
 
 Birlik hajmdagi suyuqlik massasiga nima deyiladi?
 A) Solishtirma hajm
